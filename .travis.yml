@@ -11,6 +11,6 @@ deploy:
   provider: heroku
   api_key:
     secure: aVJy8LCv1Ictse/GLCv0ngkFMF8ZyUofsnBO++va8+fKj2PH6SIfW8+uf5KSMsiT7VrdrQXzEfPoDMZPd0zD6mvb+E9IHd2jaftO90J1P2tZQQc15qvEPvPudqmgNQTzrX3JuzjeK8pOxhH+iu+XgMTHtZ6UXY9aqgFTkdVhaGX4AUxRmtOG2r6Hj9cuWVgksoJgxL/RjAaWWdEpxgzrDohWcAeDcWSZaX/4QwGyidw0NfS7m+1a93s1e+fCmYzVgsvTYsmvxfzG0dQh3oOm9zQnTIqzrxUCIU9fydHe0u9CYPdD41pBGfetSFhJxFeYAG8IMyo0oWvNqHruZrdqHDclySHQZkK/QDpvL7LdTfGx0gI/2FTiwQPu0AMWtDFlNEXBqme0imwv7J8IRFjLmOW6TDmqugD3TCIA8QygTHuWKdwGblpi8JxIdG029a7ztzJRsF2y6uO4Rl0Falzwjwgqgn3huvIp+qIfM/IFtrTd3TVhDseIN/WK3xJOVEkkYOvOBS4vpRSIa49Zb5saq3vyQSOmn5PYi/w3o4z8j8Iq8MJmr2s21pOZ5TJlBmlHBvW26zKYysnXyC+xTvHlp+HCswf2srCiRDIIYHuD3FmvPtbDfmmUXRhsVegrmv/ACayeyP+zq/b/ew1nlcSSB5SPYYNiH1u1GXHzVOQfi7o=
-  app: ci-testing
+  app: enigmatic-dusk-4522
   on:
     repo: sparrowhawkk/ci-testing
