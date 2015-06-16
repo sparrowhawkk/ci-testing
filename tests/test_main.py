@@ -65,6 +65,12 @@ class MainTests(unittest.TestCase):
     #     self.assertNotIn(b'ValueError: Invalid salt', response.data)
     #     self.assertIn(b'Something went terribly wrong.', response.data)
 
+    def test_index(self):
+        response = self.app.get('/', content_type='html/text')
+        self.assertEqual(response.status_code, 200)
+
+
+
 
 if __name__ == "__main__":
     unittest.main()
